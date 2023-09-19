@@ -1,0 +1,13 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @seller_center_bot id=5553234170 - 'SellerBot'
+INFO:aiogram.dispatcher:Polling stopped for bot @seller_center_bot id=5553234170 - 'SellerBot'
+INFO:aiogram.dispatcher:Polling stopped
+2023-09-19 15:27:01,060 INFO Start polling)
+2023-09-19 15:27:01,292 INFO Run polling for bot @seller_center_bot id=5553234170 - 'SellerBot')
+2023-09-19 15:27:21,732 INFO Update id=270720256 is handled. Duration 233 ms by bot id=5553234170)
+2023-09-19 15:27:40,703 INFO Update id=270720257 is not handled. Duration 0 ms by bot id=5553234170)
+2023-09-19 15:27:48,601 INFO Polling stopped for bot @seller_center_bot id=5553234170 - 'SellerBot')
+2023-09-19 15:27:48,601 INFO Polling stopped)
+2023-09-19 16:24:59,368 INFO Start polling)
+2023-09-19 16:24:59,608 INFO Run polling for bot @seller_center_bot id=5553234170 - 'SellerBot')
+2023-09-19 16:25:16,429 INFO Update id=270720258 is handled. Duration 234 ms by bot id=5553234170)
